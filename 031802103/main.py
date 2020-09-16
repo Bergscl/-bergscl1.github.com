@@ -5,7 +5,7 @@ import jieba
 import jieba.posseg as pseg
 from jieba import analyse
 import os
-import testErrors
+import testError
 
 
 class SimilarityMethod(object):

@@ -1,1 +1,1 @@
-# bergscl1.github.com
+- 该算法使用jaccard相似系数计算文本相似度，主程序为main.py。
